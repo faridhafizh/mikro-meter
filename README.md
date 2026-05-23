@@ -5,12 +5,12 @@
   <p><strong>Enterprise-Grade MikroTik Network Monitoring & Management Platform</strong></p>
 
   <p>
-    <a href="https://github.com/your-username/mikrometer/actions"><img src="https://img.shields.io/github/actions/workflow/status/your-username/mikrometer/ci.yml?style=for-the-badge&logo=github&labelColor=000000" alt="Build Status" /></a>
+    <a href="https://github.com/faridhafizh/mikrometer/actions"><img src="https://img.shields.io/github/actions/workflow/status/faridhafizh/mikrometer/ci.yml?style=for-the-badge&logo=github&labelColor=000000" alt="Build Status" /></a>
     <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js" alt="Next.js" /></a>
     <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19.0-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
     <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.0-black?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /></a>
-    <a href="LICENSE"><img src="https://img.shields.io/github/license/your-username/mikrometer?style=for-the-badge&color=black" alt="License" /></a>
-    <a href="https://github.com/your-username/mikrometer/stargazers"><img src="https://img.shields.io/github/stars/your-username/mikrometer?style=for-the-badge&color=black" alt="Stars" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/github/license/faridhafizh/mikrometer?style=for-the-badge&color=black" alt="License" /></a>
+    <a href="https://github.com/faridhafizh/mikrometer/stargazers"><img src="https://img.shields.io/github/stars/faridhafizh/mikrometer?style=for-the-badge&color=black" alt="Stars" /></a>
   </p>
 
   <p>
@@ -85,7 +85,7 @@ MikroMeter is engineered for high performance, utilizing a modern, serverless-re
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/mikrometer.git
+   git clone https://github.com/faridhafizh/mikrometer.git
    cd mikrometer
    ```
 
