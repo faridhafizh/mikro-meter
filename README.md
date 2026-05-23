@@ -1,25 +1,22 @@
 <div align="center">
   <img src="./public/logo.png" alt="MikroMeter Logo" width="200" height="200" />
 
-  <h1>MikroMeter</h1>
   <p><strong>Enterprise-Grade MikroTik Network Monitoring & Management Platform</strong></p>
 
-  <p>
-    <a href="https://github.com/faridhafizh/mikrometer/actions"><img src="https://img.shields.io/github/actions/workflow/status/faridhafizh/mikrometer/ci.yml?style=for-the-badge&logo=github&labelColor=000000" alt="Build Status" /></a>
-    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js" alt="Next.js" /></a>
-    <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-19.0-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-5.0-black?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /></a>
-    <a href="LICENSE"><img src="https://img.shields.io/github/license/faridhafizh/mikrometer?style=for-the-badge&color=black" alt="License" /></a>
-    <a href="https://github.com/faridhafizh/mikrometer/stargazers"><img src="https://img.shields.io/github/stars/faridhafizh/mikrometer?style=for-the-badge&color=black" alt="Stars" /></a>
-  </p>
-
-  <p>
-    <a href="#-features">Features</a> •
-    <a href="#-architecture">Architecture</a> •
-    <a href="#-quick-start">Quick Start</a> •
-    <a href="#-documentation">Documentation</a> •
-    <a href="#-contributing">Contributing</a>
-  </p>
+ <p>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-19.0-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-5.0-black?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/faridhafizh/mikro-meter?style=for-the-badge&labelColor=black&color=black" alt="License" />
+  </a>
+</p>
 </div>
 
 ---
@@ -29,13 +26,6 @@
 **MikroMeter** is a premium, self-hosted web dashboard meticulously crafted for managing and monitoring MikroTik RouterOS devices. Built for network engineers, ISPs, and sysadmins, it consolidates real-time analytics, automated backups, configuration auditing, and SLA metrics into a stunning dark glassmorphism UI.
 
 Driven by Next.js and seamlessly integrated with modern AI workflows, MikroMeter scales from a single edge router to an entire enterprise fleet with zero external database dependencies.
-
-<br />
-
-<div align="center">
-  <img src="https://placehold.co/1200x600/0f172a/38bdf8?text=MikroMeter+Dashboard+Preview&font=inter" alt="Dashboard Preview" width="100%" />
-  <p><em>Real-time network telemetry, spatial router tracking, and advanced analytics in a unified dashboard.</em></p>
-</div>
 
 ---
 
