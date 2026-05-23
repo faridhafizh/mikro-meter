@@ -1,0 +1,21 @@
+{
+  "telegram": {
+    "enabled": false,
+    "botToken": "",
+    "chatId": "",
+    "alertOnOutage": true,
+    "alertOnBandwidth": true,
+    "alertOnBackup": true
+  },
+  "whatsapp": {
+    "enabled": false,
+    "webhookUrl": "",
+    "alertOnOutage": false,
+    "alertOnBandwidth": false,
+    "alertOnBackup": false
+  },
+  "speedtest": {
+    "schedule": "none",
+    "targetHost": "ping.mikrotik.com"
+  }
+}
